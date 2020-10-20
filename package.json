@@ -1,0 +1,21 @@
+{
+  "name": "todolist",
+  "homepage": " https://ch543ch543.github.io/todolist/",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script_correct.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ch543ch543/todolist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ch543ch543/todolist/issues"
+  }
+}
